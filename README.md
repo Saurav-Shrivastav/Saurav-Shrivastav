@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## In short, I am a Full Stack Web Developer and an all time geek.
+## In short, I am a Software Engineer and an all time geek.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Saurav-Shrivastav" alt="Saurav-Shrivastav" /> </p>
 
