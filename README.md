@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/SauravS23839718"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png" width="50"></a>
 
 ## Latest blog posts:
-- Just Checkout my Blog Site - <a href="https://blog.saurav-shrivastav.tech">blog.saurav-shrivastav.tech</a>
+- Just Checkout my Blog Site - <a href="https://blog.saurav-shrivastav.online">blog.saurav-shrivastav.online</a>
 - <a href="https://medium.com/@sauravsrivastav103/how-to-build-your-first-slack-bot-in-2020-with-python-flask-using-the-slack-events-api-4b20ae7b4f86">Build a Slack Bot with Python and Flask using the Slack Events API</a>
 - <a href="https://medium.com/@collabrain23/what-is-hacktoberfest-2020-and-the-notion-of-open-source-e0bb7b191b45">What is Hacktoberfest 2020 and the notion of Open Source?</a>
